@@ -1,4 +1,4 @@
-package me.bedtwL.addon.ffa;
+package me.itsglobally.addon.ffa;
 
 import me.bedtwL.ffa.api.EffectAddon;
 
